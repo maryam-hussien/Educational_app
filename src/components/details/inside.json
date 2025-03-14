@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_details_insides",
+  "info": {
+    "displayName": "inside"
+  },
+  "options": {},
+  "attributes": {
+    "description": {
+      "type": "text"
+    }
+  }
+}

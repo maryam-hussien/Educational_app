@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_details_details",
+  "info": {
+    "displayName": "details",
+    "icon": "arrowLeft",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "topic": {
+      "type": "text"
+    },
+    "description": {
+      "type": "text"
+    },
+    "code": {
+      "type": "text"
+    },
+    "output": {
+      "type": "text"
+    }
+  }
+}

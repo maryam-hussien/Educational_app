@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_topic_topics",
+  "info": {
+    "displayName": "topic",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "description": {
+      "type": "blocks"
+    }
+  }
+}
